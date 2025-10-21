@@ -1,0 +1,10 @@
+{
+  "version_urls": {
+    "jre": "https://raw.githubusercontent.com/ShamaIow/SigmaUpdater/refs/heads/main/jre/jre.json",
+    "manifests": "https://raw.githubusercontent.com/ShamaIow/SigmaUpdater/refs/heads/main/manifests/manifests.json"
+  },
+  "versions": [
+    "jre",
+    "manifests"
+  ]
+}
