@@ -1,0 +1,15 @@
+{
+  "chunks": [
+    {
+      "encrypted_hash": "7bf09eb3bf81841bf12eaa76308634a2eca12cc300f397f84b27c50cf98b0b06",
+      "hash": "91f86572e78866587388dd00f2d6bfc656c6cc2851ca068a05956d2391e99603",
+      "index": 0,
+      "size": 35122,
+      "url": "https://drive.google.com/uc?export=download&id=1QK8fnz2KF8igf2Lx_gCgMCxGxZSTPQm8"
+    }
+  ],
+  "master_key": "m4d9neen3iwxp8+t4NP4h/Ug69TruqvUljbTKMniqD4=",
+  "release_date": "2025-10-21T13:24:25Z",
+  "total_size": 35094,
+  "version": "manifests"
+}

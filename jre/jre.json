@@ -1,0 +1,15 @@
+{
+  "chunks": [
+    {
+      "encrypted_hash": "1b60e8000cf58feb552b40676650df858f8afb2361af10db7b59615eb3aff7d1",
+      "hash": "3a93bc00eef7077eeb2fad545bb7587685225c04b82f1c366ba934f798402b08",
+      "index": 0,
+      "size": 44866743,
+      "url": "https://drive.google.com/uc?export=download&id=1ktFgiV-oyog305nP6NzzP8gZaoGT0Gyb"
+    }
+  ],
+  "master_key": "A+rWxlCU1UCJqUmH8gG45A96Hr1j90nYfD8aE6v9gPs=",
+  "release_date": "2025-10-21T13:26:51Z",
+  "total_size": 44866715,
+  "version": "jre"
+}
